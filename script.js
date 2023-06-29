@@ -55,7 +55,7 @@ const countPoints = () =>{
         ScoreMAchine.innerHTML = "0"
     }
 
-    if(ScoreMAchine >= 10){
+    if(machineScoreNumber >= 10){
         result.innerHTML = "Fim de Jogo!"
         MyScore.innerHTML = "0"
         ScoreMAchine.innerHTML = "0"
